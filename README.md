@@ -4,7 +4,7 @@ Stimulation code for the fMRI experiment "Detecting Awareness in the Vegetative 
 
 ### What it does? 
 
-Three conditions: tennis, house, and faces (two in the gif below).
+Three conditions: tennis, house, and faces (two in the gif below), with both the written and spoken instructions.
 
 <p align="center">
 
