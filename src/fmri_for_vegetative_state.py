@@ -8,12 +8,14 @@ Created on Wed Sep 18 15:39:44 2019
 
 University of Glasgow.
 
-Stimulation for student project.
-Two tasks:
-* One task involved imagining playing a game of tennis (supplementary motor area activity)
+Stimulation code for the fMRI experiment "Detecting Awareness in the Vegetative State" Owen06.
+
+Three blocks:
+* One task involved imagining playing a game of tennis (supplementary motor area activity).
 * the other involved imagining visiting all of the rooms of her house, 
   starting from the front door (parahippocampal gyrus, the posterior parietal cortex, and 
   the lateral premotor cortex activity).
+* Don't think about faces.
  
 """
 
